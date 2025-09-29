@@ -1,0 +1,5 @@
+url,title,channels,views,clicks,impressions,first_date,last_date,ctr_pct,url_key,url_camp,campaign,source,medium,topic
+https://ex.com/ai-writers,AI Tools for Writers,1,4800,390,15000,2025-01-25,2025-02-22,2.6,https://ex.com/ai-writers,https://ex.com/ai-writers,ai-writers,video,organic,AI for Writers
+https://ex.com/intro-python,Intro to Python,1,2100,150,7200,2025-01-04,2025-02-02,2.083333333333333,https://ex.com/intro-python,https://ex.com/intro-python,py101,social,organic,Python
+https://ex.com/prompting,Write Better Prompts,1,1900,148,6100,2025-01-12,2025-02-10,2.4262295081967213,https://ex.com/prompting,https://ex.com/prompting,prompt-mastery,blog,organic,Prompt Engineering
+https://ex.com/regex,Regex Cheatsheet,1,1950,83,6100,2025-01-20,2025-02-18,1.360655737704918,https://ex.com/regex,https://ex.com/regex,regex-mini,social,organic,Regex
